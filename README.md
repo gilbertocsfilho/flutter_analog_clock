@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Made using the "analog_clock" library.
+
+<img src="https://github.com/gilbertocsfilho/flutter_analog_clock/blob/master/print.png" width="450" height="900">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
